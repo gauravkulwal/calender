@@ -1,0 +1,36 @@
+mat-card {
+    margin: 2em auto;
+    max-width: 320px;
+    border-style: inset;
+    border-color: rgb(49, 15, 199);
+    border-width: 5px;
+}
+
+
+/* Structure */
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+.mat-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+thead {
+    color: rgb(49, 15, 199);
+    font-size: large;
+    text-align: center;
+}
+
+span,
+button {
+    color: rgb(49, 15, 199);
+}
+
+select {
+    margin-left: 10px;
+    margin-right: 10px;
+}
